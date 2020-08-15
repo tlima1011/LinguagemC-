@@ -1,1 +1,2 @@
-# LinguagemC-
+# LinguagemC# 
+Linguagem C# com lógica. 
